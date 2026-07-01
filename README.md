@@ -1,4 +1,4 @@
-![Juan David Cabral Banner](./assets/banner.svg)
+![Juan David Cabral Banner](./banner.svg)
 
 <img alt="Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Juan David</h2>
 
