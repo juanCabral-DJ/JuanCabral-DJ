@@ -1,0 +1,73 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0E14"/>
+      <stop offset="100%" stop-color="#12161F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#DD0031"/>
+      <stop offset="100%" stop-color="#00D9C0"/>
+    </linearGradient>
+    <clipPath id="termClip">
+      <rect x="52" y="56" width="620" height="192" rx="10"/>
+    </clipPath>
+    <style>
+      @keyframes blink { 0%, 45% { opacity: 1; } 50%, 95% { opacity: 0; } 100% { opacity: 1; } }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      .mono { font-family: 'SFMono-Regular', 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+      .display { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- faint grid texture on right side -->
+  <g opacity="0.06">
+    <path d="M 750 0 L 750 300 M 850 0 L 850 300 M 950 0 L 950 300 M 1050 0 L 1050 300 M 1150 0 L 1150 300" stroke="#E8EAED" stroke-width="1"/>
+    <path d="M 700 0 L 1200 0 M 700 60 L 1200 60 M 700 120 L 1200 120 M 700 180 L 1200 180 M 700 240 L 1200 240 M 700 300 L 1200 300" stroke="#E8EAED" stroke-width="1"/>
+  </g>
+
+  <!-- top accent rule -->
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+
+  <!-- terminal window -->
+  <rect x="52" y="56" width="620" height="192" rx="10" fill="#151A24" stroke="#262C3A" stroke-width="1.5"/>
+  <rect x="52" y="56" width="620" height="30" rx="10" fill="#1B212D"/>
+  <rect x="52" y="76" width="620" height="10" fill="#1B212D"/>
+  <circle cx="74" cy="71" r="5.5" fill="#DD0031"/>
+  <circle cx="92" cy="71" r="5.5" fill="#E8B33C"/>
+  <circle cx="110" cy="71" r="5.5" fill="#00D9C0"/>
+  <text x="672" y="75" text-anchor="end" class="mono" font-size="12" fill="#5B6472">juan@itla:~</text>
+
+  <g clip-path="url(#termClip)">
+    <text x="76" y="120" class="mono" font-size="16">
+      <tspan fill="#00D9C0">$</tspan>
+      <tspan fill="#E8EAED" dx="8">whoami</tspan>
+    </text>
+    <text x="76" y="146" class="mono" font-size="16" fill="#B6BCC7">&gt; Juan David Cabral Ortiz</text>
+
+    <text x="76" y="180" class="mono" font-size="16">
+      <tspan fill="#00D9C0">$</tspan>
+      <tspan fill="#E8EAED" dx="8">cat role.txt</tspan>
+    </text>
+    <text x="76" y="206" class="mono" font-size="16" fill="#B6BCC7">&gt; Frontend Developer · Angular + PrimeNG</text>
+
+    <text x="76" y="234" class="mono" font-size="16">
+      <tspan fill="#00D9C0">$</tspan>
+      <tspan fill="#E8EAED" dx="8">status --grad</tspan>
+    </text>
+    <text x="256" y="234" fill="#DD0031" class="cursor mono" font-size="16">▍</text>
+  </g>
+
+  <!-- right side: name + tagline -->
+  <text x="734" y="140" class="display" font-size="42" font-weight="700" fill="#F4F5F7">Juan David Cabral</text>
+  <text x="734" y="178" class="display" font-size="21" font-weight="500" fill="#8B93A1">ITLA Graduate — Software Development</text>
+
+  <rect x="734" y="200" width="46" height="4" fill="url(#accent)"/>
+
+  <text x="734" y="232" class="mono" font-size="15" fill="#5B6472">Angular · PrimeNG · TypeScript · .NET</text>
+  <text x="734" y="256" class="mono" font-size="15" fill="#5B6472">Open to collaboration and consulting</text>
+
+  <!-- bottom accent rule -->
+  <rect x="0" y="296" width="1200" height="4" fill="url(#accent)"/>
+</svg>
