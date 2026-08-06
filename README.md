@@ -53,7 +53,7 @@
 ### 🤝🏻 &nbsp;Conecta conmigo
 
 <p align="center">
-<a href="https://portafolio-jds.netlify.app/"><img src="https://img.shields.io/badge/-Portafolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://jdx-portafolio.netlify.app/#hero"><img src="https://img.shields.io/badge/-Portafolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/juan-david-cabral-b740a1329/"><img src="https://img.shields.io/badge/-Juan%20David%20Cabral-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:juandavidcabral71@gmail.com"><img src="https://img.shields.io/badge/-juandavidcabral71@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jd_cabral_/"><img src="https://img.shields.io/badge/-@jd__cabral__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
