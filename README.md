@@ -10,7 +10,7 @@
 🎮 &nbsp;Fuera del código, disfruto de los videojuegos y el gym.\
 💬 &nbsp;Disponible para cualquier consultoría o colaboración.\
 ✉️ &nbsp;Escríbeme a juandavidcabral71@gmail.com, intento responder lo antes posible.\
-📄 &nbsp;Revisa mi [Portafolio](https://portafolio-jds.netlify.app/) para conocer más sobre mí y mis proyectos.
+📄 &nbsp;Revisa mi [Portafolio](https://jdx-portafolio.netlify.app/#hero) para conocer más sobre mí y mis proyectos.
 
 ### 🛠 &nbsp;Stack Tecnológico
 
