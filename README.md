@@ -4,13 +4,13 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Recién graduado de Desarrollo de Software en el ITLA.\
+💡 &nbsp;Graduado de Desarrollo de Software en el ITLA.\
 🎯 &nbsp;Actualmente enfocado en Frontend, trabajando con Angular y PrimeNG.\
-🌱 &nbsp;Con muchas ganas de seguir creciendo y aprendiendo en el sector.\
+🌱 &nbsp;Con ganas de seguir creciendo y aprendiendo en el sector.\
 🎮 &nbsp;Fuera del código, disfruto de los videojuegos y el gym.\
 💬 &nbsp;Disponible para cualquier consultoría o colaboración.\
 ✉️ &nbsp;Escríbeme a juandavidcabral71@gmail.com, intento responder lo antes posible.\
-📄 &nbsp;Revisa mi [Portafolio](https://jdx-portafolio.netlify.app/#hero) para conocer más sobre mí y mis proyectos.
+📄 &nbsp;Revisa mi [Portafolio](https://jdx-portafolio.netlify.app/) para conocer más sobre mí y mis proyectos.
 
 ### 🛠 &nbsp;Stack Tecnológico
 
@@ -39,7 +39,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC)&nbsp;
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=azuredevops&logoColor=0078D7)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-05122A?style=flat&logo=azuredevops&logoColor=0078D7)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)
 
 ### ⚙️ &nbsp;Estadísticas de GitHub
 
@@ -53,7 +54,7 @@
 ### 🤝🏻 &nbsp;Conecta conmigo
 
 <p align="center">
-<a href="https://jdx-portafolio.netlify.app/#hero"><img src="https://img.shields.io/badge/-Portafolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://jdx-portafolio.netlify.app/"><img src="https://img.shields.io/badge/-Portafolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/juan-david-cabral-b740a1329/"><img src="https://img.shields.io/badge/-Juan%20David%20Cabral-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:juandavidcabral71@gmail.com"><img src="https://img.shields.io/badge/-juandavidcabral71@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/jd_cabral_/"><img src="https://img.shields.io/badge/-@jd__cabral__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
